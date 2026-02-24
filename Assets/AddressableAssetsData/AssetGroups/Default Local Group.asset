@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 2c511caf1e589e742b9169dfb3a6202f
+  m_SerializeEntries:
+  - m_GUID: 19567b1f88fc9c544865285726c0ee87
+    m_Address: Assets/Addressable Resources/hollow.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b0e8f1d55734914282c065a9f5c4a11
+    m_Address: Assets/Addressable Resources/hhuh.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9873f12ba2fa6b24184cbbe42cd0f97b
+    m_Address: Assets/Addressable Resources/Biba.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2da947bce2c54d438a78547cebcb2a6
+    m_Address: Assets/Addressable Resources/Matwijko scary.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcaaccb404f4dd742bb85892b8b678ce
+    m_Address: Assets/Addressable Resources/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8d2863307fe66f1409d22f0daeaacac9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aea650aeae08bf345bac844e779aa7d4, type: 2}
+    - {fileID: 11400000, guid: 8e87bd01a91d32740a265a1221a97fa6, type: 2}
